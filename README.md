@@ -5,16 +5,17 @@ You can use the [editor on GitHub](https://github.com/chengxuan-xia/chengxuan-xi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
-* _Sept 2019 - Present_  **University of Chinese Academy of Sciences (UCAS)**
+* _Sept 2019 - Present_    **University of Chinese Academy of Sciences (UCAS)**
 
 M.s in Software and Theory of Computer, School of Computer Science and Technology                           
 
-* _Sept 2014 - June 2019_  **University of Chinese Academy of Sciences** 
+* _Sept 2014 - June 2019_    **University of Chinese Academy of Sciences** 
 
 B.E in Physics, School of Physical Sciences
 
 ### Research Experience
 _July 2020 - Present_ **Key Lab of Intelligent Information Processing, CAS**
+
 _Research Assistant | Advisor: Ping Luo, Associate Professor, UCAS_
 *	Built a GRU RNN model to generate a continuation in Chinese (in PyTorch); achieved 22.4 perplexity on a test set of 30k sentences
 * Upgraded an algorithm on Named-entity Recognition task in extracting structured information (like tables), with accuracy further improved by 4%
@@ -22,26 +23,29 @@ _Research Assistant | Advisor: Ping Luo, Associate Professor, UCAS_
 
 _Nov 2019 - Jan 2020_ **CCF Big Data & Computing Intelligence Contest**
 * Built a deep learning model (BERT) in Emotional Analysis of Internet News task, achieved 0.817 accuracy and ranked 56th out of 2,745 teams
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Professional Experience
+_Jul 2020 - Present_   **Beijing Paoding Technology LTD**
 
-1. Numbered
-2. List
+Software Development Engineer Intern, Research Department
 
-**Bold** and _Italic_ and `Code` text
+*	Collected research data from DuIE and other datasets, mined data from financial reports with OCR
+*	Developed an algorithm that can automatically transform data into proper format, analyze data within over 60k sentences, and show the results with pandas, matplotlib or heatmap (in Python)
+*	Constructed a bi-directional LSTM RNN to label and locate information in structured documents (in PyTorch) 
+*	Optimized and refined PDFlux, a platform helps identify and extract elements such as tables, paragraphs, and pictures in PDF
 
-[Link](url) and ![Image](src)
-```
+_Sep 2020 - Jan 2021_   **UCAS**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Undergraduate Teaching Assistant | B0911012Y **Foundations of Artificial Intelligence**
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengxuan-xia/chengxuan-xia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Leadership Activities
+_Sep 2019 - Sep 2020_   **Editorial Department, UCAS**   | Production editor
+* Led a team of 30 to produce daily publications on the official accounts of UCAS on WeChat (with over 230k followers), including managing writers and other publishing staff, editing content, and approving final layouts
+
+_July 2015_   **Greenway International Teaching Volunteer Program**
+* Led volunteers from different nations to instruct English to 40 local students with self-designed syllabus and teaching methods
+
 
 ### Support or Contact
 
