@@ -37,8 +37,9 @@ Software Development Engineer Intern, Research Department
 *	Constructed a bi-directional LSTM RNN to label and locate information in structured documents (in PyTorch) 
 *	Optimized and refined PDFlux, a platform helps identify and extract elements such as tables, paragraphs, and pictures in PDF
 
-_Sep 2020 - Jan 2021_   **UCAS**
-* Undergraduate Teaching Assistant | B0911012Y **Foundations of Artificial Intelligence**
+_Sep 2020 - Jan 2021_   **UCAS**  
+Undergraduate Teaching Assistant
+* B0911012Y **Foundations of Artificial Intelligence**
 
 
 ### Leadership Activities
