@@ -52,5 +52,5 @@ _July 2015_   **Greenway International Teaching Volunteer Program**
 
 ### Contact Me
 
-* Email: xiachengxuan19s@ict.ac.cn(xiachengxuan19s@ict.ac.cn)
-* Social Media: linkedin(https://www.linkedin.com/in/chengxuan-xia-30a4151b9/)
+* Email: [xiachengxuan19s@ict.ac.cn](xiachengxuan19s@ict.ac.cn)
+* Social Media: [linkedin](https://www.linkedin.com/in/chengxuan-xia-30a4151b9/)
