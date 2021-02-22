@@ -1,7 +1,7 @@
 ## About me
 
-Hi! I'm Chengxuan (Sheldon) Xia, a 2nd year master student in School of Computer Science and Technology, at University of Chinese Academy of Sciences.
-Recently, I'm focusing on machine learning and Natural Language Processing.
+Hi! I'm Chengxuan (Sheldon) Xia, a master student in School of Computer Science and Technology, at University of Chinese Academy of Sciences.
+Recently, I'm focusing on Machine Learning and Natural Language Processing.
 
 ### Education
 _Sept 2019 - Present_    **University of Chinese Academy of Sciences (UCAS)**
