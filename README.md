@@ -5,16 +5,23 @@ You can use the [editor on GitHub](https://github.com/chengxuan-xia/chengxuan-xi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
-Sept 2019 - Present  **University of Chinese Academy of Sciences (UCAS)**
+* _Sept 2019 - Present_  **University of Chinese Academy of Sciences (UCAS)**
+
 M.s in Software and Theory of Computer, School of Computer Science and Technology                           
 
-Sept 2014 - June 2019  **University of Chinese Academy of Sciences** 
+* _Sept 2014 - June 2019_  **University of Chinese Academy of Sciences** 
+
 B.E in Physics, School of Physical Sciences
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Research Experience
+_July 2020 - Present_ **Key Lab of Intelligent Information Processing, CAS**
+_Research Assistant | Advisor: Ping Luo, Associate Professor, UCAS_
+*	Built a GRU RNN model to generate a continuation in Chinese (in PyTorch); achieved 22.4 perplexity on a test set of 30k sentences
+* Upgraded an algorithm on Named-entity Recognition task in extracting structured information (like tables), with accuracy further improved by 4%
+*	Built a CRNN model on License Plate Recognition, with an accuracy above 80% and model size less than 10M
 
+_Nov 2019 - Jan 2020_ **CCF Big Data & Computing Intelligence Contest**
+* Built a deep learning model (BERT) in Emotional Analysis of Internet News task, achieved 0.817 accuracy and ranked 56th out of 2,745 teams
 # Header 1
 ## Header 2
 ### Header 3
