@@ -1,18 +1,16 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/chengxuan-xia/chengxuan-xia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hi! I'm Chengxuan (Sheldon) Xia, a 2nd year master student in School of Computer Science and Technology, at University of Chinese Academy of Sciences.
+Recently, I'm focusing on machine learning and Natural Language Processing.
 
 ### Education
-* _Sept 2019 - Present_    **University of Chinese Academy of Sciences (UCAS)**
+_Sept 2019 - Present_    **University of Chinese Academy of Sciences (UCAS)**
 
-M.s in Software and Theory of Computer, School of Computer Science and Technology                           
+* M.s in Software and Theory of Computer, School of Computer Science and Technology                           
 
-* _Sept 2014 - June 2019_    **University of Chinese Academy of Sciences** 
+_Sept 2014 - June 2019_    **University of Chinese Academy of Sciences** 
 
-B.E in Physics, School of Physical Sciences
+* B.E in Physics, School of Physical Sciences
 
 
 ### Research Experience
@@ -37,7 +35,8 @@ Software Development Engineer Intern, Research Department
 *	Constructed a bi-directional LSTM RNN to label and locate information in structured documents (in PyTorch) 
 *	Optimized and refined PDFlux, a platform helps identify and extract elements such as tables, paragraphs, and pictures in PDF
 
-_Sep 2020 - Jan 2021_   **UCAS**  
+_Sep 2020 - Jan 2021_   **UCAS** 
+
 Undergraduate Teaching Assistant
 * B0911012Y **Foundations of Artificial Intelligence**
 
