@@ -4,8 +4,12 @@ You can use the [editor on GitHub](https://github.com/chengxuan-xia/chengxuan-xi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
+Sept 2019 - Present  University of Chinese Academy of Sciences (UCAS)
+M.s in Software and Theory of Computer, School of Computer Science and Technology                           
 
+Sept 2014 - June 2019  University of Chinese Academy of Sciences 
+B.E in Physics, School of Physical Sciences
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
