@@ -1,5 +1,5 @@
 ## About me
-![Image text](https://github.com/chengxuan-xia/chengxuan-xia.github.io/blob/main/lkn.jpg)
+
 Hi! I am Chengxuan (Sheldon) Xia, a master student in School of Computer Science and Technology, at University of Chinese Academy of Sciences.
 Recently, I am focusing on Machine Learning and Natural Language Processing.
 
