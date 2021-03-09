@@ -2,7 +2,8 @@
 
 I am a graduate student in School of Computer Science and Technology, University of Chinese Academy of Sciences. My research area mainly focuses on Machine Learning and Natural Language Processing. To me, there is nothing more exciting than researching and developing machine learning algorithms. 'Dive deep' is the most accurate discription of me. 
 
-<hr>
+*****
+
 ### Education
 _Sept 2019 - Present_    **University of Chinese Academy of Sciences (UCAS)**
 
@@ -12,7 +13,8 @@ _Sept 2014 - June 2019_    **University of Chinese Academy of Sciences**
 
 * B.E in Physics, School of Physical Sciences
 
-<hr>
+*****
+
 ### Research Experience
 _July 2020 - Present_ **Key Lab of Intelligent Information Processing, CAS**
 
@@ -24,7 +26,8 @@ _Research Assistant | Advisor: Ping Luo, Associate Professor, UCAS_
 _Nov 2019 - Jan 2020_ **CCF Big Data & Computing Intelligence Contest**
 * Built a deep learning model (BERT) in Emotional Analysis of Internet News task, achieved 0.817 accuracy and ranked 56th out of 2,745 teams
 
-<hr>
+*****
+
 ### Professional Experience
 _Jul 2020 - Present_   **Beijing Paoding Technology LTD**
 
@@ -40,7 +43,8 @@ _Sep 2020 - Jan 2021_   **UCAS**
 Undergraduate Teaching Assistant
 * B0911012Y **Foundations of Artificial Intelligence**
 
-<hr>
+*****
+
 ### Leadership Activities
 _Sep 2019 - Sep 2020_   **Editorial Department, UCAS**   | Production editor
 * Led a team of 30 to produce daily publications on the official accounts of UCAS on WeChat (with over 230k followers), including managing writers and other publishing staff, editing content, and approving final layouts
