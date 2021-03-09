@@ -1,4 +1,4 @@
-## About me
+### About me
 
 I am a graduate student in School of Computer Science and Technology, University of Chinese Academy of Sciences. My research area mainly focuses on Machine Learning and Natural Language Processing. To me, there is nothing more exciting than researching and developing machine learning algorithms. 'Dive deep' is the most accurate discription of me. 
 
