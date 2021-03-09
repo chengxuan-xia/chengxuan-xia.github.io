@@ -47,8 +47,3 @@ _Sep 2019 - Sep 2020_   **Editorial Department, UCAS**   | Production editor
 _July 2015_   **Greenway International Teaching Volunteer Program**
 * Led volunteers from different nations to instruct English to 40 local students with self-designed syllabus and teaching methods
 
-
-### Contact Me
-
-* Email: [xiachengxuan19s@ict.ac.cn](xiachengxuan19s@ict.ac.cn)
-* Social Media: [linkedin](https://www.linkedin.com/in/chengxuan-xia-30a4151b9/)
