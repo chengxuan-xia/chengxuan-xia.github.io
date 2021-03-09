@@ -1,10 +1,10 @@
-### About me
+### About Me
 
 I am a graduate student in School of Computer Science and Technology, University of Chinese Academy of Sciences. My research area mainly focuses on Machine Learning and Natural Language Processing. To me, there is nothing more exciting than researching and developing machine learning algorithms. 'Dive deep' is the most accurate discription of me. 
 
 
 *****
-### Education
+### Education Background
 _Sept 2019 - Present_    **University of Chinese Academy of Sciences (UCAS)**
 
 * M.s in Software and Theory of Computer, School of Computer Science and Technology                           
@@ -15,7 +15,7 @@ _Sept 2014 - June 2019_    **University of Chinese Academy of Sciences**
 
 
 *****
-### Research Experience
+### Research Experiences
 _July 2020 - Present_ **Key Lab of Intelligent Information Processing, CAS**
 
 _Research Assistant | Advisor: Ping Luo, Associate Professor, UCAS_
@@ -28,7 +28,7 @@ _Nov 2019 - Jan 2020_ **CCF Big Data & Computing Intelligence Contest**
 
 
 *****
-### Professional Experience
+### Professional Experiences
 _Jul 2020 - Present_   **Beijing Paoding Technology LTD**
 
 Software Development Engineer Intern, Research Department
