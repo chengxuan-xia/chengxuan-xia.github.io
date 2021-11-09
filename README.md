@@ -41,6 +41,7 @@ documents, it has achieved 0.953 accuracy on a real-world dataset and has been b
 need 1 week to label 2000 ones before
 *	Developed an algorithm that can automatically transform data into proper format, analyze data within over 60k sentences
 *	Constructed a bi-directional LSTM RNN to label and locate information in structured documents (in PyTorch)
+
 _Sep 2020 - Jan 2021_   **UCAS** 
 
 Undergraduate Teaching Assistant
