@@ -20,8 +20,8 @@ _July 2020 - Present_ **Key Lab of Intelligent Information Processing, CAS**
 
 _Research Assistant | Advisor: Ping Luo, Associate Professor, UCAS_
 *	Built a model with 12 embedding layers, a bi-LSTM as transformer and combined with a financial KG and context message as external knowledge, to extract 4 logical relations in financial texts and expand the scope of application of traditional Semantic Textual Similarity tasks; achieved 0.963 F1 score, the resulting paper, ADTMAN: Accurate Descriptive Term MAtchiNg was submitted to the ACL 2022
-• Upgraded an algorithm for a Named-Entity Recognition task that extracted structured information, that improved the system’s accuracy from 0.92 to 0.96
-• Built a GRU RNN based language model to generate a continuation in Chinese (in PyTorch); achieved 22.4 perplexity on a test set of 30,000 sentences
+* Upgraded an algorithm for a Named-Entity Recognition task that extracted structured information, that improved the system’s accuracy from 0.92 to 0.96
+* Built a GRU RNN based language model to generate a continuation in Chinese (in PyTorch); achieved 22.4 perplexity on a test set of 30,000 sentences
 
 _Nov 2019 - Jan 2020_ **CCF Big Data & Computing Intelligence Contest**
 * Built a machine learning model based on BERT to analyze the emotional preference of Internet news, achieved 0.817 accuracy
@@ -30,7 +30,7 @@ _Nov 2019 - Jan 2020_ **CCF Big Data & Computing Intelligence Contest**
 
 *****
 ### Professional Experiences
-_Jul 2020 - Present_   **Beijing Paoding Technology LTD**
+_Sep 2020 - Present_   **Beijing Paoding Technology LTD**
 
 Software Development Engineer Intern, Research Department
 
