@@ -28,7 +28,7 @@ _Sept. 2014 - Jun. 2019_    UCAS
 ### Professional Experiences
 _Sep. 2020 - Jul. 2022_   Beijing Paoding Technology LTD
 
-Software Development Engineer, Research Department
+**Software Development Engineer**, Research Department
 
 **Fullstack Web Development with ML Backend**
 * Trained a weak-supervised model for keyword-based label generator
@@ -43,13 +43,14 @@ Software Development Engineer, Research Department
 
 _Sep. 2020 - Jan. 2021_   UCAS
 
-Undergraduate Teaching Assistant
+**Undergraduate Teaching Assistant**
 * B0911012Y Foundations of Artificial Intelligence
 
 *****
 ### Research Experiences
 _Jul. 2020 - Jun. 2021_ Key Lab of Intelligent Information Processing, CAS
-Research Assistant
+**Research Assistant**
+
 **Full Stack: E-Commerce Website application**
 * Built a full-stack E-commerce website with Angular front-end and Java Spring Boot back-end
 * Utilized advanced development tools such as IntelliJ, Visual Studio Code to develop the code for the product catalog, shopping cart and checkout
